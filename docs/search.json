@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About Me\nI am a UBC MDS student."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hello, I’m Michael"
+  },
+  {
+    "objectID": "Quarto.html",
+    "href": "Quarto.html",
+    "title": "Quarto",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Quarto.html#quarto",
+    "href": "Quarto.html#quarto",
+    "title": "Quarto",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  }
+]
